@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm Sanskruti Kothari 👋
 
-<!--
-**sanskruti18240/sanskruti18240** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Diploma Student
 
-Here are some ideas to get you started:
+💻 Aspiring Data Scientist & AI Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Pune, Maharashtra, India
+
+🚀 Passionate about building real-world solutions using AI, Data Science, and Web Development.
+
+## 🌱 Currently Learning
+
+- Python for Data Science
+- Machine Learning Fundamentals
+- Git & GitHub
+- Full Stack Development
+- Prompt Engineering
+
+## 🚀 Projects
+
+- SkillForge AI – AI-powered career guidance platform
+- Paripurn Maharashtra – Educational and Maharashtra information portal
+- AI for Beginners – Learning platform for students
+- SmartOps Driver Platform – Driver management system
+
+## 🛠️ Skills
+
+Programming:
+- Python
+- Java
+- HTML
+- CSS
+- JavaScript
+
+Tools:
+- Git
+- GitHub
+- VS Code
+
+Database:
+- MySQL
+
+## 🎯 2026 Goals
+
+- Complete my Data Science Internship
+- Build industry-level projects
+- Strengthen Python and Machine Learning skills
+- Contribute to Open Source Projects
+
+  ## 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/sanskruti-kothari-0a14233b7
+- GitHub: https://github.com/sanskruti18240
+
+Thanks for visiting my profile!
