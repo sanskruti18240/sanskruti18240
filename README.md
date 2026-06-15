@@ -1,4 +1,5 @@
-# Hi, I'm Sanskruti Kothari 👋
+<h1 align="center">Hi 👋, I'm Sanskruti Kothari</h1>
+<h3 align="center">Diploma Student | Data Science Enthusiast | AI Learner</h3>
 
 🎓 Diploma Student
 
