@@ -10,7 +10,6 @@ Building practical projects in Data Science, Artificial Intelligence, and Web De
 </p>
 
 ---
-/h3>
 
 ## 👩‍💻 About Me
 
